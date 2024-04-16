@@ -3,6 +3,6 @@ pandas
 nltk
 WordCloud
 matplotlib
-cv2
+opencv-python
 numpy
 Axes3D

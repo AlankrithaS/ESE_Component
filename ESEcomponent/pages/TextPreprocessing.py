@@ -6,6 +6,10 @@ from nltk.stem import PorterStemmer
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 
+nltk.download('stopwords')
+nltk.download('punkt')
+nltk.download('wordnet')
+
 # Load the CSV data
 df = pd.read_csv("new.csv")
 

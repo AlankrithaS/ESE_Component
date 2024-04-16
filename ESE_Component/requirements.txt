@@ -1,8 +1,0 @@
-streamlit
-pandas
-nltk
-WordCloud
-matplotlib
-cv2
-numpy
-Axes3D

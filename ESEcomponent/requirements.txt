@@ -1,7 +1,7 @@
 streamlit
 pandas
-nltk
-WordCloud
-matplotlib
+nltk==3.8.1
+wordcloud==1.9.3
+matplotlib==3.8.4
 opencv-python
 numpy
